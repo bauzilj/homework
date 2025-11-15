@@ -1,0 +1,24 @@
+a{
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+    display: inline;
+    padding: 5px 20px ;
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 25px;
+    border: 2px solid darkblue;
+
+}
+a:hover{
+    background-color: brown;
+    color: aliceblue;
+}
+div{
+    padding-top: 20px;
+    justify-content: center;
+    text-align: center;
+    background-color: lightblue;
+    height: 400px;
+    margin: 50px 200px 50px 200px;
+}

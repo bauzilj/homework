@@ -1,0 +1,32 @@
+
+
+.header {
+    background-color: #003368;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+h3{
+    color: #003368;
+    border-bottom: 1px solid #003368;
+}
+
+
+.super{
+    background-color: #003368;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    padding-top:  1.5px;
+    padding-bottom:  1.5px;
+}
+
+.lista{
+    background-color: #d9ebf7;
+    border-radius: 5px;
+    padding-top: 0.05em;px;
+    padding-bottom: 0.05px;
+    margin-bottom: 30px;
+
+}
